@@ -1,0 +1,2113 @@
+{
+  "intents": [
+    {
+      "tag": "Google Pixel 8 Pro",
+      "patterns": [
+        "google pixel 8 pro",
+        "pixel 8 pro",
+        "pixel8pro",
+        "pixel 8 pro",
+        "google pixel 8 pro",
+        "p 8 pro",
+        "p 8pro",
+        "p8pro",
+        "p 8pro",
+        "p 8 pro",
+        "p8 pro"
+      ],
+      "responses": [
+        "google pixel 8 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel 8a",
+      "patterns": [
+        "google pixel 8a",
+        "pixel 8a",
+        "pixel8a",
+        "pixel 8a",
+        "google pixel 8a",
+        "p 8a",
+        "p 8 a",
+        "p8a",
+        "p8 a",
+        "p 8a",
+        "p 8 a"
+      ],
+      "responses": [
+        "google pixel 8a"
+      ]
+    },
+    
+    {
+      "tag": "Google Pixel 8",
+      "patterns": [
+        "google pixel 8",
+        "pixel 8",
+        "pixel8",
+        "pixel 8",
+        "google pixel 8",
+        "p 8",
+        "p 8",
+        "p8"
+      ],
+      "responses": [
+        "google pixel 8"
+      ]
+    },
+    {
+      "tag": "Google Pixel 7",
+      "patterns": [
+        "google pixel 7",
+        "pixel 7",
+        "pixel7",
+        "pixel 7",
+        "google pixel 7",
+        "p 7",
+        "p 7",
+        "p7",
+        "p7"
+      ],
+      "responses": [
+        "google pixel 7"
+      ]
+    },
+    {
+      "tag": "Google Pixel 7a",
+      "patterns": [
+        "google pixel 7a",
+        "pixel 7a",
+        "pixel7a",
+        "pixel 7a",
+        "google pixel 7a",
+        "p 7a",
+        "p 7 a",
+        "p7 a",
+        "p 7 a",
+        "p7a"
+      ],
+      "responses": [
+        "google pixel 7a"
+      ]
+    },
+    {
+      "tag": "Google Pixel 7 Pro",
+      "patterns": [
+        "google pixel 7 pro",
+        "pixel 7 pro",
+        "pixel7pro",
+        "pixel 7 pro",
+        "google pixel 7 pro",
+        "p 7 pro",
+        "p 7 pro",
+        "p7pro",
+        "p 7pro",
+        "p7 pro",
+        "p 7pro"
+      ],
+      "responses": [
+        "google pixel 7 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6",
+      "patterns": [
+        "google pixel 6",
+        "pixel 6",
+        "pixel6",
+        "pixel 6",
+        "google pixel 6",
+        "p 6",
+        "p6"
+      ],
+      "responses": [
+        "google pixel 6"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6a",
+      "patterns": [
+        "google pixel 6a",
+        "pixel 6a",
+        "pixel6a",
+        "pixel 6a",
+        "google pixel 6a",
+        "p 6a",
+        "p 6 a",
+        "p6 a",
+        "p 6a",
+        "p6a"
+      ],
+      "responses": [
+        "google pixel 6a"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6 Pro",
+      "patterns": [
+        "google pixel 6 pro",
+        "pixel 6 pro",
+        "pixel6pro",
+        "pixel 6 pro",
+        "google pixel 6 pro",
+        "p 6 pro",
+        "p 6 pro",
+        "p6 pro",
+        "p 6pro",
+        "p6pro"
+      ],
+      "responses": [
+        "google pixel 6 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel Fold",
+      "patterns": [
+        "google pixel fold",
+        "pixel fold",
+        "pixelfold",
+        "pixel fold",
+        "google pixel fold",
+        "p fold",
+        "pfold"
+      ],
+      "responses": [
+        "google pixel fold"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Flip",
+      "patterns": [
+        "samsung galaxy z flip",
+        "galaxy z flip",
+        "galaxyzflip",
+        "galaxy z flip",
+        "samsung galaxy z flip",
+        "samsung z flip",
+        "samsung zflip",
+        "galaxy zflip"
+      ],
+      "responses": [
+        "samsung galaxy z flip"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Flip2",
+      "patterns": [
+        "samsung galaxy z flip2",
+        "galaxy z flip2",
+        "galaxyzflip2",
+        "galaxy z flip2",
+        "samsung galaxy z flip2",
+        "samsung z flip2",
+        "samsung zflip2",
+        "galaxy zflip2"
+      ],
+      "responses": [
+        "samsung galaxy z flip2"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Flip3",
+      "patterns": [
+        "samsung galaxy z flip3",
+        "galaxy z flip3",
+        "galaxyzflip3",
+        "galaxy z flip3",
+        "samsung galaxy z flip3",
+        "samsung z flip3",
+        "samsung zflip3",
+        "galaxy zflip3"
+      ],
+      "responses": [
+        "samsung galaxy z flip3"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Flip4",
+      "patterns": [
+        "samsung galaxy z flip4",
+        "galaxy z flip4",
+        "galaxyzflip4",
+        "galaxy z flip4",
+        "samsung galaxy z flip4",
+        "samsung z flip4",
+        "samsung zflip4",
+        "galaxy zflip4"
+      ],
+      "responses": [
+        "samsung galaxy z flip4"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Flip5",
+      "patterns": [
+        "samsung galaxy z flip5",
+        "galaxy z flip5",
+        "galaxyzflip5",
+        "galaxy z flip5",
+        "samsung galaxy z flip5",
+        "samsung z flip5",
+        "galaxy zflip5"
+      ],
+      "responses": [
+        "samsung galaxy z flip5"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Fold",
+      "patterns": [
+        "samsung galaxy z fold",
+        "galaxy z fold",
+        "galaxyzfold",
+        "galaxy z fold",
+        "samsung galaxy z fold",
+        "samsung z fold",
+        "samsung z fold",
+        "samsungzfold",
+        "samsungzfold",
+        "samsungzfold",
+        "samsungzfold"
+      ],
+      "responses": [
+        "samsung galaxy z fold"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Fold2",
+      "patterns": [
+        "samsung galaxy z fold2",
+        "galaxy z fold2",
+        "galaxyzfold2",
+        "galaxy z fold2",
+        "samsung galaxy z fold2",
+        "samsung z fold2",
+        "samsung z fold2",
+        "samsung z fold 2",
+        "samsung zfold 2"
+      ],
+      "responses": [
+        "samsung galaxy z fold2"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Fold3",
+      "patterns": [
+        "samsung galaxy z fold3",
+        "galaxy z fold3",
+        "galaxyzfold3",
+        "galaxy z fold3",
+        "samsung galaxy z fold3",
+        "samsung z fold3",
+        "samsung z fold3",
+        "samsung zfold3",
+        "samsung z fold 3",
+        "samsung zfold 3",
+        "samsung zfold3"
+      ],
+      "responses": [
+        "samsung galaxy z fold3"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Fold4",
+      "patterns": [
+        "samsung galaxy z fold4",
+        "galaxy z fold4",
+        "galaxyzfold4",
+        "galaxy z fold4",
+        "samsung galaxy z fold4",
+        "samsung z fold4",
+        "samsung z fold4",
+        "samsung zfold4",
+        "samsung z fold 4",
+        "samsung zfold 4",
+        "samsung zfold4"
+      ],
+      "responses": [
+        "samsung galaxy z fold4"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Z Fold5",
+      "patterns": [
+        "samsung galaxy z fold5",
+        "galaxy z fold5",
+        "galaxyzfold5",
+        "galaxy z fold5",
+        "samsung galaxy z fold5",
+        "samsung z fold5",
+        "samsung z fold5",
+        "samsung z fold 5",
+        "samsung zfold 5",
+        "samsung zfold5"
+      ],
+      "responses": [
+        "samsung galaxy z fold5"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Ultra Note 20",
+      "patterns": [
+        "samsung galaxy ultra note 20",
+        "galaxy ultra note 20",
+        "galaxyultranote20",
+        "galaxy ultra note 20",
+        "samsung galaxy ultra note 20",
+        "samsung ultra note 20",
+        "samsung ultra note 20",
+        "samsung ultra note20",
+        "samsung ultra note20",
+        "samsung ultranote20"
+      ],
+      "responses": [
+        "samsung galaxy ultra note 20"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S24",
+      "patterns": [
+        "samsung galaxy s24",
+        "galaxy s24",
+        "galaxys24",
+        "galaxy s24",
+        "samsung galaxy s24",
+        "samsung s24",
+        "samsung s 24",
+        "samsung s24"
+      ],
+      "responses": [
+        "samsung galaxy s24"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S24+",
+      "patterns": [
+        "samsung galaxy s24+",
+        "galaxy s24+",
+        "galaxys24+",
+        "galaxy s24 plus",
+        "samsung galaxy s24+",
+        "samsung s24+",
+        "samsung s24plus",
+        "samsung s24+",
+        "samsung s24 plus",
+        "samsung s 24 +",
+        "samsung s 24 plus"
+      ],
+      "responses": [
+        "samsung galaxy s24+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S24 Ultra",
+      "patterns": [
+        "samsung galaxy s24 ultra",
+        "galaxy s24 ultra",
+        "galaxys24ultra",
+        "galaxy s24 ultra",
+        "samsung galaxy s24 ultra",
+        "samsung s24 ultra",
+        "samsung s 24 ultra",
+        "samsung s 24ultra",
+        "samsung s24 ultra",
+        "samsung s 24ultra"
+      ],
+      "responses": [
+        "samsung galaxy s24 ultra"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S23",
+      "patterns": [
+        "samsung galaxy s23",
+        "galaxy s23",
+        "galaxys23",
+        "galaxy s23",
+        "samsung galaxy s23",
+        "samsung s23",
+        "samsung s 23",
+        "samsung s23"
+      ],
+      "responses": [
+        "samsung galaxy s23"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S23+",
+      "patterns": [
+        "samsung galaxy s23+",
+        "galaxy s23+",
+        "galaxy s23+",
+        "galaxy s23 plus",
+        "samsung galaxy s23 plus",
+        "samsung s23+",
+        "samsung s23 plus",
+        "samsung s 23 +",
+        "samsung s 23 plus",
+        "samsung s23 +",
+        "samsung s23 plus"
+      ],
+      "responses": [
+        "samsung galaxy s23+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S23 Ultra",
+      "patterns": [
+        "samsung galaxy s23 ultra",
+        "galaxy s23 ultra",
+        "galaxys23ultra",
+        "galaxy s23ultra",
+        "samsung galaxy s23 ultra",
+        "samsung s23 ultra",
+        "samsung s23ultra",
+        "samsungs 23ultra"
+      ],
+      "responses": [
+        "samsung galaxy s23 ultra"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S22",
+      "patterns": [
+        "samsung galaxy s22",
+        "galaxy s22",
+        "galaxy s22",
+        "galaxy s 22",
+        "samsung galaxy s22",
+        "samsung s 22",
+        "samsung s22"
+      ],
+      "responses": [
+        "samsung galaxy s22"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S22+",
+      "patterns": [
+        "samsung galaxy s22+",
+        "galaxy s22+",
+        "galaxys22+",
+        "galaxy s22 plus",
+        "samsung galaxy s22+",
+        "samsung s22+",
+        "samsung s22plus",
+        "samsung s 22 plus",
+        "samsung s 22 +",
+        "samsung s22+",
+        "samsung s22plus"
+      ],
+      "responses": [
+        "samsung galaxy s22+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S22 Ultra",
+      "patterns": [
+        "samsung galaxy s22 ultra",
+        "galaxy s22 ultra",
+        "galaxys22ultra",
+        "galaxy s22 ultra",
+        "samsung galaxy s22 ultra",
+        "samsung s22 ultra",
+        "samsung s 22 ultra",
+        "samsung s22ultra"
+      ],
+      "responses": [
+        "samsung galaxy s22 ultra"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S21",
+      "patterns": [
+        "samsung galaxy s21",
+        "galaxy s21",
+        "galaxys21",
+        "galaxy s21",
+        "samsung galaxy s21",
+        "samsung s21",
+        "samsung s 21",
+        "galaxy s 21",
+        "samsung s21"
+      ],
+      "responses": [
+        "samsung galaxy s21"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S21+",
+      "patterns": [
+        "samsung galaxy s21+",
+        "galaxy s21+",
+        "galaxys21+",
+        "galaxy s21plus",
+        "samsung galaxy s21+",
+        "samsung s21+",
+        "samsung s21plus",
+        "samsung s 21 +",
+        "samsung s 21 plus",
+        "samsung s 21+",
+        "samsung s 21plus"
+      ],
+      "responses": [
+        "samsung galaxy s21+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S21 Ultra",
+      "patterns": [
+        "samsung galaxy s21 ultra",
+        "galaxy s21 ultra",
+        "galaxys21ultra",
+        "galaxy s21 ultra",
+        "samsung galaxy s21 ultra",
+        "samsung s21 ultra",
+        "samsung s21 ultra",
+        "samsungs 21ultra"
+      ],
+      "responses": [
+        "samsung galaxy s21 ultra"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S21 FE",
+      "patterns": [
+        "samsung galaxy s21 fe",
+        "galaxy s21 fe",
+        "galaxys21fe",
+        "galaxy s21 fe",
+        "samsung galaxy s21 fe",
+        "samsung s21 fe",
+        "samsung s21 fe",
+        "samsung s 21 fe",
+        "samsung s 21fe",
+        "samsung s21 fe",
+        "samsung s21fe"
+      ],
+      "responses": [
+        "samsung galaxy s21 fe"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S20",
+      "patterns": [
+        "samsung galaxy s20",
+        "galaxy s20",
+        "galaxys20",
+        "galaxy s 20",
+        "samsung galaxy s20",
+        "samsung s20",
+        "samsung s 20",
+        "samsung s20"
+      ],
+      "responses": [
+        "samsung galaxy s20"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S20+",
+      "patterns": [
+        "samsung galaxy s20+",
+        "galaxy s20+",
+        "galaxys20+",
+        "galaxy s20plus",
+        "samsung galaxy s20+",
+        "samsung s20 +",
+        "samsung s20 plus",
+        "samsung s 20 +",
+        "samsung s 20 plus",
+        "samsung s20+"
+      ],
+      "responses": [
+        "samsung galaxy s20+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S20 FE",
+      "patterns": [
+        "samsung galaxy s20 fe",
+        "galaxy s20 fe",
+        "galaxys20fe",
+        "galaxy s20fe",
+        "samsung galaxy s20 fe",
+        "samsung s20 fe",
+        "samsung s 20 fe",
+        "samsung s20fe"
+      ],
+      "responses": [
+        "samsung galaxy s20 fe"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S10",
+      "patterns": [
+        "samsung galaxy s10",
+        "galaxy s10",
+        "galaxys10",
+        "galaxy s 10",
+        "samsung galaxy s10",
+        "samsung s 10",
+        "samsung s 10",
+        "samsung s10",
+        "samsung s10"
+      ],
+      "responses": [
+        "samsung galaxy s10"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S10+",
+      "patterns": [
+        "samsung galaxy s10+",
+        "galaxy s10+",
+        "galaxys10+",
+        "galaxy s10plus",
+        "samsung galaxy s10+",
+        "samsung s10 +",
+        "samsung s10 plus",
+        "samsung s 10 +",
+        "samsung s 10 plus",
+        "samsungs10+"
+      ],
+      "responses": [
+        "samsung galaxy s10+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy S10 Lite",
+      "patterns": [
+        "samsung galaxy s10 lite",
+        "galaxy s10 lite",
+        "galaxys10lite",
+        "galaxy s10lite",
+        "samsung galaxy s10 lite",
+        "samsung s10 lite",
+        "samsung s 10 lite",
+        "samsung s 10lite"
+      ],
+      "responses": [
+        "samsung galaxy s10 lite"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Note 20",
+      "patterns": [
+        "samsung galaxy note 20",
+        "galaxy note 20",
+        "galaxynote20",
+        "galaxy note 20",
+        "samsung galaxy note 20",
+        "samsung note 20",
+        "samsung note20"
+      ],
+      "responses": [
+        "samsung galaxy note 20"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Note 10",
+      "patterns": [
+        "samsung galaxy note 10",
+        "galaxy note 10",
+        "galaxynote10",
+        "galaxy note 10",
+        "samsung galaxy note10",
+        "samsung note 10",
+        "samsung note10"
+      ],
+      "responses": [
+        "samsung galaxy note 10"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Note 10 Lite",
+      "patterns": [
+        "samsung galaxy note 10 lite",
+        "galaxy note 10 lite",
+        "galaxynote10lite",
+        "galaxy note 10lite",
+        "samsung galaxy note 10 lite",
+        "samsung note10 lite",
+        "samsung note 10lite",
+        "samsung note10lite",
+        "samsung note 10lite"
+      ],
+      "responses": [
+        "samsung galaxy note 10 lite"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy Note 10+",
+      "patterns": [
+        "samsung galaxy note 10+",
+        "galaxy note 10+",
+        "galaxynote10+",
+        "galaxy note 10plus",
+        "samsung galaxy note 10+",
+        "samsung note 10 +",
+        "samsung note 10 plus",
+        "samsung note10 +",
+        "samsung note10 plus",
+        "samsung note10+"
+      ],
+      "responses": [
+        "samsung galaxy note 10+"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M51",
+      "patterns": [
+        "samsung galaxy m51",
+        "galaxy m51",
+        "galaxym51",
+        "galaxy m 51",
+        "samsung galaxy m51",
+        "samsung m51",
+        "samsung m 51",
+        "samsung m51",
+        "samsung m 51"
+      ],
+      "responses": [
+        "samsung galaxy m51"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M42",
+      "patterns": [
+        "samsung galaxy m42",
+        "galaxy m42",
+        "galaxym42",
+        "galaxy m 42",
+        "samsung galaxy m42",
+        "samsung m42",
+        "samsung m 42",
+        "samsung m42"
+      ],
+      "responses": [
+        "samsung galaxy m42"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M40",
+      "patterns": [
+        "samsung galaxy m40",
+        "galaxy m40",
+        "galaxym40",
+        "galaxy m 40",
+        "samsung galaxy m40",
+        "samsung m40",
+        "samsung m 40",
+        "samsung m40",
+        "samsung m4 0"
+      ],
+      "responses": [
+        "samsung galaxy m40"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M32",
+      "patterns": [
+        "samsung galaxy m32",
+        "galaxy m32",
+        "galaxym32",
+        "galaxy m 32",
+        "samsung galaxy m32",
+        "samsung m 32",
+        "samsung m32"
+      ],
+      "responses": [
+        "samsung galaxy m32"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M31",
+      "patterns": [
+        "samsung galaxy m31",
+        "galaxy m31",
+        "galaxym31",
+        "galaxy m 31",
+        "samsung galaxy m31",
+        "samsung m31",
+        "samsung m 31",
+        "samsung m31"
+      ],
+      "responses": [
+        "samsung galaxy m31"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M31s",
+      "patterns": [
+        "samsung galaxy m31s",
+        "galaxy m31s",
+        "galaxym31s",
+        "galaxy m31 s",
+        "samsung galaxy m31s",
+        "samsung m31s",
+        "samsung m31 s",
+        "samsung m 31s",
+        "samsung m 31 s",
+        "samsung m 31 s",
+        "samsung m 31 s"
+      ],
+      "responses": [
+        "samsung galaxy m31s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M30",
+      "patterns": [
+        "samsung galaxy m30",
+        "galaxy m30",
+        "galaxym30",
+        "galaxy m 30",
+        "samsung galaxy m30",
+        "samsung m30",
+        "samsung m 30",
+        "samsung m30"
+      ],
+      "responses": [
+        "samsung galaxy m30"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M30s",
+      "patterns": [
+        "samsung galaxy m30s",
+        "galaxy m30s",
+        "galaxym30s",
+        "galaxy m30 s",
+        "samsung galaxy m30s",
+        "samsung m30s",
+        "samsung m30 s",
+        "samsung m 30 s",
+        "samsung m 30s"
+      ],
+      "responses": [
+        "samsung galaxy m30s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M21",
+      "patterns": [
+        "samsung galaxy m21",
+        "galaxy m21",
+        "galaxym21",
+        "galaxy m 21",
+        "samsung galaxy m21",
+        "samsung m21",
+        "samsung m 21",
+        "samsung m21"
+      ],
+      "responses": [
+        "samsung galaxy m21"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M20",
+      "patterns": [
+        "samsung galaxy m20",
+        "galaxy m20",
+        "galaxym20",
+        "galaxy m 20",
+        "samsung galaxy m20",
+        "samsung m20",
+        "samsung m 20",
+        "samsung m20"
+      ],
+      "responses": [
+        "samsung galaxy m20"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M12",
+      "patterns": [
+        "samsung galaxy m12",
+        "galaxy m12",
+        "galaxym12",
+        "galaxy m 12",
+        "samsung galaxy m12",
+        "samsung m12"
+      ],
+      "responses": [
+        "samsung galaxy m12"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M11",
+      "patterns": [
+        "samsung galaxy m11",
+        "galaxy m11",
+        "galaxym11",
+        "galaxy m 11",
+        "samsung galaxy m11",
+        "samsung m11",
+        "samsung m 11",
+        "samsung m11"
+      ],
+      "responses": [
+        "samsung galaxy m11"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M10",
+      "patterns": [
+        "samsung galaxy m10",
+        "galaxy m10",
+        "galaxym10",
+        "galaxy m 10",
+        "samsung galaxy m10",
+        "samsung m 10",
+        "samsung m10"
+      ],
+      "responses": [
+        "samsung galaxy m10"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M10s",
+      "patterns": [
+        "samsung galaxy m10s",
+        "galaxy m10s",
+        "galaxym10s",
+        "galaxy m 10s",
+        "samsung galaxy m10s",
+        "samsung m10s",
+        "samsung m10 s",
+        "samsung m 10 s",
+        "samsung m10 s"
+      ],
+      "responses": [
+        "samsung galaxy m10s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M02",
+      "patterns": [
+        "samsung galaxy m02",
+        "galaxy m02",
+        "galaxym02",
+        "galaxy m 02",
+        "samsung galaxy m02",
+        "samsung m02",
+        "samsung m 02",
+        "samsung m 02",
+        "samsung m02"
+      ],
+      "responses": [
+        "samsung galaxy m02"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy M02s",
+      "patterns": [
+        "samsung galaxy m02s",
+        "galaxy m02s",
+        "galaxym02s",
+        "galaxy m 02 s",
+        "samsung galaxy m02s",
+        "samsung m 02 s",
+        "samsung m 02s",
+        "samsung m 02s",
+        "samsung m02 s",
+        "samsung m 02 s",
+        "samsung m02s"
+      ],
+      "responses": [
+        "samsung galaxy m02s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy J8",
+      "patterns": [
+        "samsung galaxy j8",
+        "galaxy j8",
+        "galaxyj8",
+        "galaxy j 8",
+        "samsung galaxy j8",
+        "samsung j8",
+        "samsung j 8",
+        "samsung j8"
+      ],
+      "responses": [
+        "samsung galaxy j8"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy J7 Max",
+      "patterns": [
+        "samsung galaxy j7 max",
+        "galaxy j7 max",
+        "galaxyj7max",
+        "galaxy j 7 max",
+        "samsung galaxy j7 max",
+        "samsung j7 max",
+         "samsung j7max",
+        "samsung j7max"
+      ],
+      "responses": [
+        "samsung galaxy j7 max"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy J2",
+      "patterns": [
+        "samsung galaxy j2",
+        "galaxy j2",
+        "galaxyj2",
+        "galaxy j 2",
+        "samsung galaxy j2",
+        "samsung j 2",
+        "samsung j2"
+      ],
+      "responses": [
+        "samsung galaxy j2"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy F62",
+      "patterns": [
+        "samsung galaxy f62",
+        "galaxy f62",
+        "galaxyf62",
+        "galaxy f 62",
+        "samsung galaxy f62",
+        "samsung f62",
+        "samsung f 62",
+        "samsung f62"
+      ],
+      "responses": [
+        "samsung galaxy f62"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy F41",
+      "patterns": [
+        "samsung galaxy f41",
+        "galaxy f41",
+        "galaxyf41",
+        "galaxy f 41",
+        "samsung galaxy f41",
+        "samsung f41",
+        "samsung f 41",
+        "samsung f41"
+      ],
+      "responses": [
+        "samsung galaxy f41"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy F22",
+      "patterns": [
+        "samsung galaxy f22",
+        "galaxy f22",
+        "galaxyf22",
+        "galaxy f 22",
+        "samsung galaxy f22",
+        "samsung f22",
+        "samsung f 22",
+        "samsung f22"
+      ],
+      "responses": [
+        "samsung galaxy f22"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy F12",
+      "patterns": [
+        "samsung galaxy f12",
+        "galaxy f12",
+        "galaxyf12",
+        "galaxy f 12",
+        "samsung galaxy f12",
+        "samsung f12",
+        "samsung f 12",
+        "samsung f12"
+      ],
+      "responses": [
+        "samsung galaxy f12"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy F02s",
+      "patterns": [
+        "samsung galaxy f02s",
+        "galaxy f02s",
+        "galaxyf02s",
+        "galaxy f02 s",
+        "samsung galaxy f02s",
+        "samsung f02s",
+        "samsung f02 s",
+        "samsung f 02 s",
+        "samsung f02 s",
+        "samsung f02s"
+      ],
+      "responses": [
+        "samsung galaxy f02s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A8 Star",
+      "patterns": [
+        "samsung galaxy a8 star",
+        "galaxy a8 star",
+        "galaxya8star",
+        "galaxy a 8 star",
+        "samsung galaxy a8 star",
+        "samsung a8 star",
+        "samsung a 8 star",
+        "samsung a8star",
+        "samsung a 8star",
+        "samsung a8star"
+      ],
+      "responses": [
+        "samsung galaxy a8 star"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A72",
+      "patterns": [
+        "samsung galaxy a72",
+        "galaxy a72",
+        "galaxya72",
+        "galaxy a 72",
+        "samsung galaxy a72",
+        "samsung a72",
+        "samsung a 72",
+        "samsung a72"
+      ],
+      "responses": [
+        "samsung galaxy a72"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A71",
+      "patterns": [
+        "samsung galaxy a71",
+        "galaxy a71",
+        "galaxya71",
+        "galaxy a 71",
+        "samsung galaxy a71",
+        "samsung a71",
+        "samsung a 71",
+        "samsung a71"
+      ],
+      "responses": [
+        "samsung galaxy a71"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A70",
+      "patterns": [
+        "samsung galaxy a70",
+        "galaxy a70",
+        "galaxya70",
+        "galaxy a70",
+        "samsung galaxy a70",
+        "samsung a70",
+        "samsung a70",
+        "samsunga70",
+        "samsunga70",
+        "samsunga70",
+        "samsunga70"
+      ],
+      "responses": [
+        "samsung galaxy a70"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A70s",
+      "patterns": [
+        "samsung galaxy a70s",
+        "galaxy a70s",
+        "galaxya70s",
+        "galaxy a70s",
+        "samsung galaxy a70s",
+        "samsung a70s",
+        "samsung a70s",
+        "samsunga70s",
+        "samsunga70s",
+        "samsunga70s",
+        "samsunga70s"
+      ],
+      "responses": [
+        "samsung galaxy a70s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A6",
+      "patterns": [
+        "samsung galaxy a6",
+        "galaxy a6",
+        "galaxya6",
+        "galaxy a6",
+        "samsung galaxy a6",
+        "samsung a6",
+        "samsung a6",
+        "samsunga6",
+        "samsunga6",
+        "samsunga6",
+        "samsunga6"
+      ],
+      "responses": [
+        "samsung galaxy a6"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A54",
+      "patterns": [
+        "samsung galaxy a54",
+        "galaxy a54",
+        "galaxya54",
+        "galaxy a54",
+        "samsung galaxy a54",
+        "samsung a54",
+        "samsung a54",
+        "samsunga54",
+        "samsunga54",
+        "samsunga54",
+        "samsunga54"
+      ],
+      "responses": [
+        "samsung galaxy a54"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A53",
+      "patterns": [
+        "samsung galaxy a53",
+        "galaxy a53",
+        "galaxya53",
+        "galaxy a53",
+        "samsung galaxy a53",
+        "samsung a53",
+        "samsung a53",
+        "samsunga53",
+        "samsunga53",
+        "samsunga53",
+        "samsunga53"
+      ],
+      "responses": [
+        "samsung galaxy a53"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A52",
+      "patterns": [
+        "samsung galaxy a52",
+        "galaxy a52",
+        "galaxya52",
+        "galaxy a52",
+        "samsung galaxy a52",
+        "samsung a52",
+        "samsung a52",
+        "samsunga52",
+        "samsunga52",
+        "samsunga52",
+        "samsunga52"
+      ],
+      "responses": [
+        "samsung galaxy a52"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A52s",
+      "patterns": [
+        "samsung galaxy a52s",
+        "galaxy a52s",
+        "galaxya52s",
+        "galaxy a52s",
+        "samsung galaxy a52s",
+        "samsung a52s",
+        "samsung a52s",
+        "samsunga52s",
+        "samsunga52s",
+        "samsunga52s",
+        "samsunga52s"
+      ],
+      "responses": [
+        "samsung galaxy a52s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A51",
+      "patterns": [
+        "samsung galaxy a51",
+        "galaxy a51",
+        "galaxya51",
+        "galaxy a51",
+        "samsung galaxy a51",
+        "samsung a51",
+        "samsung a51",
+        "samsunga51",
+        "samsunga51",
+        "samsunga51",
+        "samsunga51"
+      ],
+      "responses": [
+        "samsung galaxy a51"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A50",
+      "patterns": [
+        "samsung galaxy a50",
+        "galaxy a50",
+        "galaxya50",
+        "galaxy a50",
+        "samsung galaxy a50",
+        "samsung a50",
+        "samsung a50",
+        "samsunga50",
+        "samsunga50",
+        "samsunga50",
+        "samsunga50"
+      ],
+      "responses": [
+        "samsung galaxy a50"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A50s",
+      "patterns": [
+        "samsung galaxy a50s",
+        "galaxy a50s",
+        "galaxya50s",
+        "galaxy a50s",
+        "samsung galaxy a50s",
+        "samsung a50s",
+        "samsung a50s",
+        "samsunga50s",
+        "samsunga50s",
+        "samsunga50s",
+        "samsunga50s"
+      ],
+      "responses": [
+        "samsung galaxy a50s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A42",
+      "patterns": [
+        "samsung galaxy a42",
+        "galaxy a42",
+        "galaxya42",
+        "galaxy a42",
+        "samsung galaxy a42",
+        "samsung a42",
+        "samsung a42",
+        "samsunga42",
+        "samsunga42",
+        "samsunga42",
+        "samsunga42"
+      ],
+      "responses": [
+        "samsung galaxy a42"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A32",
+      "patterns": [
+        "samsung galaxy a32",
+        "galaxy a32",
+        "galaxya32",
+        "galaxy a32",
+        "samsung galaxy a32",
+        "samsung a32",
+        "samsung a32",
+        "samsunga32",
+        "samsunga32",
+        "samsunga32",
+        "samsunga32"
+      ],
+      "responses": [
+        "samsung galaxy a32"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A31",
+      "patterns": [
+        "samsung galaxy a31",
+        "galaxy a31",
+        "galaxya31",
+        "galaxy a31",
+        "samsung galaxy a31",
+        "samsung a31",
+        "samsung a31",
+        "samsunga31",
+        "samsunga31",
+        "samsunga31",
+        "samsunga31"
+      ],
+      "responses": [
+        "samsung galaxy a31"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A30s",
+      "patterns": [
+        "samsung galaxy a30s",
+        "galaxy a30s",
+        "galaxya30s",
+        "galaxy a30s",
+        "samsung galaxy a30s",
+        "samsung a30s",
+        "samsung a30s",
+        "samsunga30s",
+        "samsunga30s",
+        "samsunga30s",
+        "samsunga30s"
+      ],
+      "responses": [
+        "samsung galaxy a30s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A22",
+      "patterns": [
+        "samsung galaxy a22",
+        "galaxy a22",
+        "galaxya22",
+        "galaxy a22",
+        "samsung galaxy a22",
+        "samsung a22",
+        "samsung a22",
+        "samsunga22",
+        "samsunga22",
+        "samsunga22",
+        "samsunga22"
+      ],
+      "responses": [
+        "samsung galaxy a22"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A21s",
+      "patterns": [
+        "samsung galaxy a21s",
+        "galaxy a21s",
+        "galaxya21s",
+        "galaxy a21s",
+        "samsung galaxy a21s",
+        "samsung a21s",
+        "samsung a21s",
+        "samsunga21s",
+        "samsunga21s",
+        "samsunga21s",
+        "samsunga21s"
+      ],
+      "responses": [
+        "samsung galaxy a21s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A20e",
+      "patterns": [
+        "samsung galaxy a20e",
+        "galaxy a20e",
+        "galaxya20e",
+        "galaxy a20e",
+        "samsung galaxy a20e",
+        "samsung a20e",
+        "samsung a20e",
+        "samsunga20e",
+        "samsunga20e",
+        "samsunga20e",
+        "samsunga20e"
+      ],
+      "responses": [
+        "samsung galaxy a20e"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A12",
+      "patterns": [
+        "samsung galaxy a12",
+        "galaxy a12",
+        "galaxya12",
+        "galaxy a12",
+        "samsung galaxy a12",
+        "samsung a12",
+        "samsung a12",
+        "samsunga12",
+        "samsunga12",
+        "samsunga12",
+        "samsunga12"
+      ],
+      "responses": [
+        "samsung galaxy a12"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A11",
+      "patterns": [
+        "samsung galaxy a11",
+        "galaxy a11",
+        "galaxya11",
+        "galaxy a11",
+        "samsung galaxy a11",
+        "samsung a11",
+        "samsung a11",
+        "samsunga11",
+        "samsunga11",
+        "samsunga11",
+        "samsunga11"
+      ],
+      "responses": [
+        "samsung galaxy a11"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A10s",
+      "patterns": [
+        "samsung galaxy a10s",
+        "galaxy a10s",
+        "galaxya10s",
+        "galaxy a10s",
+        "samsung galaxy a10s",
+        "samsung a10s",
+        "samsung a10s",
+        "samsunga10s",
+        "samsunga10s",
+        "samsunga10s",
+        "samsunga10s"
+      ],
+      "responses": [
+        "samsung galaxy a10s"
+      ]
+    },
+    {
+      "tag": "Samsung Galaxy A02s",
+      "patterns": [
+        "samsung galaxy a02s",
+        "galaxy a02s",
+        "galaxya02s",
+        "galaxy a02s",
+        "samsung galaxy a02s",
+        "samsung a02s",
+        "samsung a02s",
+        "samsunga02s",
+        "samsunga02s",
+        "samsunga02s",
+        "samsunga02s"
+      ],
+      "responses": [
+        "samsung galaxy a02s"
+      ]
+    },
+    {
+      "tag": "Apple iPhone X",
+      "patterns": [
+        "apple iphone x",
+        "iphone x",
+        "iphonex",
+        "iphone x",
+        "apple iphone x",
+        "iphone x",
+        "iphone x",
+        "iphonex",
+        "iphonex",
+        "iphonex",
+        "iphonex"
+      ],
+      "responses": [
+        "apple iphone x"
+      ]
+    },
+    {
+      "tag": "Apple iPhone XR",
+      "patterns": [
+        "apple iphone xr",
+        "iphone xr",
+        "iphonexr",
+        "iphone xr",
+        "apple iphone xr",
+        "iphone xr",
+        "iphone xr",
+        "iphonexr",
+        "iphonexr",
+        "iphonexr",
+        "iphonexr"
+      ],
+      "responses": [
+        "apple iphone xr"
+      ]
+    },
+    {
+      "tag": "Apple iPhone SE",
+      "patterns": [
+        "apple iphone se",
+        "iphone se",
+        "iphonese",
+        "iphone se",
+        "apple iphone se",
+        "iphone se",
+        "iphone se",
+        "iphonese",
+        "iphonese",
+        "iphonese",
+        "iphonese"
+      ],
+      "responses": [
+        "apple iphone se"
+      ]
+    },
+    {
+      "tag": "Apple iPhone SE3",
+      "patterns": [
+        "apple iphone se3",
+        "iphone se3",
+        "iphonese3",
+        "iphone se3",
+        "apple iphone se3",
+        "iphone se3",
+        "iphone se3",
+        "iphonese3",
+        "iphonese3",
+        "iphonese3",
+        "iphonese3"
+      ],
+      "responses": [
+        "apple iphone se3"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 8",
+      "patterns": [
+        "apple iphone 8",
+        "iphone 8",
+        "iphone8",
+        "iphone 8",
+        "apple iphone 8",
+        "iphone 8",
+        "iphone 8",
+        "iphone8",
+        "iphone8",
+        "iphone8",
+        "iphone8"
+      ],
+      "responses": [
+        "apple iphone 8"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 7",
+      "patterns": [
+        "apple iphone 7",
+        "iphone 7",
+        "iphone7",
+        "iphone 7",
+        "apple iphone 7",
+        "iphone 7",
+        "iphone 7",
+        "iphone7",
+        "iphone7",
+        "iphone7",
+        "iphone7"
+      ],
+      "responses": [
+        "apple iphone 7"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 6s",
+      "patterns": [
+        "apple iphone 6s",
+        "iphone 6s",
+        "iphone6s",
+        "iphone 6s",
+        "apple iphone 6s",
+        "iphone 6s",
+        "iphone 6s",
+        "iphone6s",
+        "iphone6s",
+        "iphone6s",
+        "iphone6s"
+      ],
+      "responses": [
+        "apple iphone 6s"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 15",
+      "patterns": [
+        "apple iphone 15",
+        "iphone 15",
+        "iphone15",
+        "iphone 15",
+        "apple iphone 15",
+        "iphone 15",
+        "iphone 15",
+        "iphone15",
+        "iphone15",
+        "iphone15",
+        "iphone15"
+      ],
+      "responses": [
+        "apple iphone 15"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 15 Plus",
+      "patterns": [
+        "apple iphone 15 plus",
+        "iphone 15 plus",
+        "iphone15plus",
+        "iphone 15 plus",
+        "apple iphone 15 plus",
+        "iphone 15 plus",
+        "iphone 15 plus",
+        "iphone15plus",
+        "iphone15plus",
+        "iphone15plus",
+        "iphone15plus"
+      ],
+      "responses": [
+        "apple iphone 15 plus"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 15 Pro",
+      "patterns": [
+        "apple iphone 15 pro",
+        "iphone 15 pro",
+        "iphone15pro",
+        "iphone 15 pro",
+        "apple iphone 15 pro",
+        "iphone 15 pro",
+        "iphone 15 pro",
+        "iphone15pro",
+        "iphone15pro",
+        "iphone15pro",
+        "iphone15pro"
+      ],
+      "responses": [
+        "apple iphone 15 pro"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 15 Pro Max",
+      "patterns": [
+        "apple iphone 15 pro max",
+        "iphone 15 pro max",
+        "iphone15promax",
+        "iphone 15 pro max",
+        "apple iphone 15 pro max",
+        "iphone 15 pro max",
+        "iphone 15 pro max",
+        "iphone15promax",
+        "iphone15promax",
+        "iphone15promax",
+        "iphone15promax"
+      ],
+      "responses": [
+        "apple iphone 15 pro max"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 14",
+      "patterns": [
+        "apple iphone 14",
+        "iphone 14",
+        "iphone14",
+        "iphone 14",
+        "apple iphone 14",
+        "iphone 14",
+        "iphone 14",
+        "iphone14",
+        "iphone14",
+        "iphone14",
+        "iphone14"
+      ],
+      "responses": [
+        "apple iphone 14"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 14 Plus",
+      "patterns": [
+        "apple iphone 14 plus",
+        "iphone 14 plus",
+        "iphone14plus",
+        "iphone 14 plus",
+        "apple iphone 14 plus",
+        "iphone 14 plus",
+        "iphone 14 plus",
+        "iphone14plus",
+        "iphone14plus",
+        "iphone14plus",
+        "iphone14plus"
+      ],
+      "responses": [
+        "apple iphone 14 plus"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 14 Pro",
+      "patterns": [
+        "apple iphone 14 pro",
+        "iphone 14 pro",
+        "iphone14pro",
+        "iphone 14 pro",
+        "apple iphone 14 pro",
+        "iphone 14 pro",
+        "iphone 14 pro",
+        "iphone14pro",
+        "iphone14pro",
+        "iphone14pro",
+        "iphone14pro"
+      ],
+      "responses": [
+        "apple iphone 14 pro"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 14 Pro Max",
+      "patterns": [
+        "apple iphone 14 pro max",
+        "iphone 14 pro max",
+        "iphone14promax",
+        "iphone 14 pro max",
+        "apple iphone 14 pro max",
+        "iphone 14 pro max",
+        "iphone 14 pro max",
+        "iphone14promax",
+        "iphone14promax",
+        "iphone14promax",
+        "iphone14promax"
+      ],
+      "responses": [
+        "apple iphone 14 pro max"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 13",
+      "patterns": [
+        "apple iphone 13",
+        "iphone 13",
+        "iphone13",
+        "iphone 13",
+        "apple iphone 13",
+        "iphone 13",
+        "iphone 13",
+        "iphone13",
+        "iphone13",
+        "iphone13",
+        "iphone13"
+      ],
+      "responses": [
+        "apple iphone 13"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 13 Plus",
+      "patterns": [
+        "apple iphone 13 plus",
+        "iphone 13 plus",
+        "iphone13plus",
+        "iphone 13 plus",
+        "apple iphone 13 plus",
+        "iphone 13 plus",
+        "iphone 13 plus",
+        "iphone13plus",
+        "iphone13plus",
+        "iphone13plus",
+        "iphone13plus"
+      ],
+      "responses": [
+        "apple iphone 13 plus"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 13 Pro",
+      "patterns": [
+        "apple iphone 13 pro",
+        "iphone 13 pro",
+        "iphone13pro",
+        "iphone 13 pro",
+        "apple iphone 13 pro",
+        "iphone 13 pro",
+        "iphone 13 pro",
+        "iphone13pro",
+        "iphone13pro",
+        "iphone13pro",
+        "iphone13pro"
+      ],
+      "responses": [
+        "apple iphone 13 pro"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 13 Pro Max",
+      "patterns": [
+        "apple iphone 13 pro max",
+        "iphone 13 pro max",
+        "iphone13promax",
+        "iphone 13 pro max",
+        "apple iphone 13 pro max",
+        "iphone 13 pro max",
+        "iphone 13 pro max",
+        "iphone13promax",
+        "iphone13promax",
+        "iphone13promax",
+        "iphone13promax"
+      ],
+      "responses": [
+        "apple iphone 13 pro max"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 12",
+      "patterns": [
+        "apple iphone 12",
+        "iphone 12",
+        "iphone12",
+        "iphone 12",
+        "apple iphone 12",
+        "iphone 12",
+        "iphone 12",
+        "iphone12",
+        "iphone12",
+        "iphone12",
+        "iphone12"
+      ],
+      "responses": [
+        "apple iphone 12"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 12 Plus",
+      "patterns": [
+        "apple iphone 12 plus",
+        "iphone 12 plus",
+        "iphone12plus",
+        "iphone 12 plus",
+        "apple iphone 12 plus",
+        "iphone 12 plus",
+        "iphone 12 plus",
+        "iphone12plus",
+        "iphone12plus",
+        "iphone12plus",
+        "iphone12plus"
+      ],
+      "responses": [
+        "apple iphone 12 plus"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 12 Pro",
+      "patterns": [
+        "apple iphone 12 pro",
+        "iphone 12 pro",
+        "iphone12pro",
+        "iphone 12 pro",
+        "apple iphone 12 pro",
+        "iphone 12 pro",
+        "iphone 12 pro",
+        "iphone12pro",
+        "iphone12pro",
+        "iphone12pro",
+        "iphone12pro"
+      ],
+      "responses": [
+        "apple iphone 12 pro"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 12 Pro Max",
+      "patterns": [
+        "apple iphone 12 pro max",
+        "iphone 12 pro max",
+        "iphone12promax",
+        "iphone 12 pro max",
+        "apple iphone 12 pro max",
+        "iphone 12 pro max",
+        "iphone 12 pro max",
+        "iphone12promax",
+        "iphone12promax",
+        "iphone12promax",
+        "iphone12promax"
+      ],
+      "responses": [
+        "apple iphone 12 pro max"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 11",
+      "patterns": [
+        "apple iphone 11",
+        "iphone 11",
+        "iphone11",
+        "iphone 11",
+        "apple iphone 11",
+        "iphone 11",
+        "iphone 11",
+        "iphone11",
+        "iphone11",
+        "iphone11",
+        "iphone11"
+      ],
+      "responses": [
+        "apple iphone 11"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 11 Plus",
+      "patterns": [
+        "apple iphone 11 plus",
+        "iphone 11 plus",
+        "iphone11plus",
+        "iphone 11 plus",
+        "apple iphone 11 plus",
+        "iphone 11 plus",
+        "iphone 11 plus",
+        "iphone11plus",
+        "iphone11plus",
+        "iphone11plus",
+        "iphone11plus"
+      ],
+      "responses": [
+        "apple iphone 11 plus"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 11 Pro",
+      "patterns": [
+        "apple iphone 11 pro",
+        "iphone 11 pro",
+        "iphone11pro",
+        "iphone 11 pro",
+        "apple iphone 11 pro",
+        "iphone 11 pro",
+        "iphone 11 pro",
+        "iphone11pro",
+        "iphone11pro",
+        "iphone11pro",
+        "iphone11pro"
+      ],
+      "responses": [
+        "apple iphone 11 pro"
+      ]
+    },
+    {
+      "tag": "Apple iPhone 11 Pro Max",
+      "patterns": [
+        "apple iphone 11 pro max",
+        "iphone 11 pro max",
+        "iphone11promax",
+        "iphone 11 pro max",
+        "apple iphone 11 pro max",
+        "iphone 11 pro max",
+        "iphone 11 pro max",
+        "iphone11promax",
+        "iphone11promax",
+        "iphone11promax",
+        "iphone11promax"
+      ],
+      "responses": [
+        "apple iphone 11 pro max"
+      ]
+    }
+  ]
+}

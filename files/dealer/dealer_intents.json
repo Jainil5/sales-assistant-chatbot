@@ -1,0 +1,1031 @@
+{
+  "intents": [
+    {
+      "tag": "a&d wireless",
+      "patterns": [
+        "a&d wireless",
+        "a&dwireless"
+      ],
+      "responses": [
+        "a&d wireless"
+      ]
+    },
+    {
+      "tag": "abm wireless",
+      "patterns": [
+        "abm wireless",
+        "abmwireless"
+      ],
+      "responses": [
+        "abm wireless"
+      ]
+    },
+    {
+      "tag": "active communications",
+      "patterns": [
+        "active communications",
+        "activecommunications"
+      ],
+      "responses": [
+        "active communications"
+      ]
+    },
+    {
+      "tag": "advanced cellular & wireless",
+      "patterns": [
+        "advanced cellular & wireless",
+        "advancedcellular&wireless"
+      ],
+      "responses": [
+        "advanced cellular & wireless"
+      ]
+    },
+    {
+      "tag": "air time communications",
+      "patterns": [
+        "air time communications",
+        "airtimecommunications"
+      ],
+      "responses": [
+        "air time communications"
+      ]
+    },
+    {
+      "tag": "ak & 5 pillars llc",
+      "patterns": [
+        "ak & 5 pillars llc",
+        "ak&5pillarsllc"
+      ],
+      "responses": [
+        "ak & 5 pillars llc"
+      ]
+    },
+    {
+      "tag": "anika wireless, inc.",
+      "patterns": [
+        "anika wireless, inc.",
+        "anika wireless inc.",
+        "anikawireless,inc.",
+        "anikawirelessinc."
+      ],
+      "responses": [
+        "anika wireless, inc."
+      ]
+    },
+    {
+      "tag": "apex cellular",
+      "patterns": [
+        "apex cellular",
+        "apexcellular"
+      ],
+      "responses": [
+        "apex cellular"
+      ]
+    },
+    {
+      "tag": "apex communications - arkansas",
+      "patterns": [
+        "apex communications - arkansas",
+        "apex communications arkansas",
+        "apexcommunications arkansas"
+      ],
+      "responses": [
+        "apex communications - arkansas"
+      ]
+    },
+    {
+      "tag": "at wireless inc",
+      "patterns": [
+        "at wireless inc",
+        "atwirelessinc"
+      ],
+      "responses": [
+        "at wireless inc"
+      ]
+    },
+    {
+      "tag": "audiocarve",
+      "patterns": [
+        "audiocarve"
+      ],
+      "responses": [
+        "audiocarve"
+      ]
+    },
+    {
+      "tag": "alliance mobile",
+      "patterns": [
+        "alliance mobile",
+        "alliancemobile"
+      ],
+      "responses": [
+        "alliance mobile"
+      ]
+    },
+    {
+      "tag": "blue grapes comm llc",
+      "patterns": [
+        "blue grapes comm llc",
+        "bluegrapescommllc"
+      ],
+      "responses": [
+        "blue grapes comm llc"
+      ]
+    },
+    {
+      "tag": "bluelinkwireless,llc",
+      "patterns": [
+        "bluelinkwireless,llc",
+        "bluelinkwirelessllc"
+      ],
+      "responses": [
+        "bluelinkwireless,llc"
+      ]
+    },
+    {
+      "tag": "bm mobile llc",
+      "patterns": [
+        "bm mobile llc",
+        "bmmobilellc"
+      ],
+      "responses": [
+        "bm mobile llc"
+      ]
+    },
+    {
+      "tag": "branch patton",
+      "patterns": [
+        "branch patton",
+        "branchpatton"
+      ],
+      "responses": [
+        "branch patton"
+      ]
+    },
+    {
+      "tag": "bug tussel wireless, llc",
+      "patterns": [
+        "bug tussel wireless, llc",
+        "bugtusselwireless,llc",
+        "bugtusselwirelessllc",
+        "bug tussel wireless llc"
+      ],
+      "responses": [
+        "bug tussel wireless, llc"
+      ]
+    },
+    {
+      "tag": "cb wireless",
+      "patterns": [
+        "cb wireless",
+        "cbwireless"
+      ],
+      "responses": [
+        "cb wireless"
+      ]
+    },
+    {
+      "tag": "cell shop inc",
+      "patterns": [
+        "cell shop inc",
+        "cellshopinc"
+      ],
+      "responses": [
+        "cell shop inc"
+      ]
+    },
+    {
+      "tag": "cell tech mobility llc",
+      "patterns": [
+        "cell tech mobility llc",
+        "celltechmobilityllc"
+      ],
+      "responses": [
+        "cell tech mobility llc"
+      ]
+    },
+    {
+      "tag": "cellular concepts",
+      "patterns": [
+        "cellular concepts",
+        "cellularconcepts"
+      ],
+      "responses": [
+        "cellular concepts"
+      ]
+    },
+    {
+      "tag": "cellular express of indiana",
+      "patterns": [
+        "cellular express of indiana",
+        "cellularexpressofindiana"
+      ],
+      "responses": [
+        "cellular express of indiana"
+      ]
+    },
+    {
+      "tag": "cellular world - nca",
+      "patterns": [
+        "cellular world - nca",
+        "cellularworldnca",
+        "cellular world  nca"
+      ],
+      "responses": [
+        "cellular world - nca"
+      ]
+    },
+    {
+      "tag": "cellular world mi",
+      "patterns": [
+        "cellular world mi",
+        "cellularworldmi"
+      ],
+      "responses": [
+        "cellular world mi"
+      ]
+    },
+    {
+      "tag": "cellularworld-329",
+      "patterns": [
+        "cellularworld-329",
+        "cellularworld329"
+      ],
+      "responses": [
+        "cellularworld-329"
+      ]
+    },
+    {
+      "tag": "cf wireless llc",
+      "patterns": [
+        "cf wireless llc",
+        "cfwirelessllc"
+      ],
+      "responses": [
+        "cf wireless llc"
+      ]
+    },
+    {
+      "tag": "communicate wireless - okc",
+      "patterns": [
+        "communicate wireless - okc",
+        "communicatewirelessokc",
+        "communicate wireless  okc"
+      ],
+      "responses": [
+        "communicate wireless - okc"
+      ]
+    },
+    {
+      "tag": "cwsinc",
+      "patterns": [
+        "cwsinc"
+      ],
+      "responses": [
+        "cwsinc"
+      ]
+    },
+    {
+      "tag": "dalati brothers inc.",
+      "patterns": [
+        "dalati brothers inc.",
+        "dalatibrothersinc."
+      ],
+      "responses": [
+        "dalati brothers inc."
+      ]
+    },
+    {
+      "tag": "diversity wireless partners llc",
+      "patterns": [
+        "diversity wireless partners llc",
+        "diversitywirelesspartnersllc"
+      ],
+      "responses": [
+        "diversity wireless partners llc"
+      ]
+    },
+    {
+      "tag": "e wireless",
+      "patterns": [
+        "e wireless",
+        "ewireless"
+      ],
+      "responses": [
+        "e wireless"
+      ]
+    },
+    {
+      "tag": "easthampton wireless",
+      "patterns": [
+        "easthampton wireless",
+        "easthamptonwireless"
+      ],
+      "responses": [
+        "easthampton wireless"
+      ]
+    },
+    {
+      "tag": "er communications inc dba wellcomm",
+      "patterns": [
+        "er communications inc dba wellcomm",
+        "ercommunicationsincdbawellcomm"
+      ],
+      "responses": [
+        "er communications inc dba wellcomm"
+      ]
+    },
+    {
+      "tag": "ez wireless - ga",
+      "patterns": [
+        "ez wireless - ga",
+        "ezwirelessga",
+        "ez wireless  ga"
+      ],
+      "responses": [
+        "ez wireless - ga"
+      ]
+    },
+    {
+      "tag": "fcw, inc",
+      "patterns": [
+        "fcw, inc",
+        "fcw,inc",
+        "fcwinc",
+        "fcw inc"
+      ],
+      "responses": [
+        "fcw, inc"
+      ]
+    },
+    {
+      "tag": "fonepage communications inc",
+      "patterns": [
+        "fonepage communications inc",
+        "fonepagecommunicationsinc"
+      ],
+      "responses": [
+        "fonepage communications inc"
+      ]
+    },
+    {
+      "tag": "ftr communications llc",
+      "patterns": [
+        "ftr communications llc",
+        "ftrcommunicationsllc"
+      ],
+      "responses": [
+        "ftr communications llc"
+      ]
+    },
+    {
+      "tag": "gastontelecommunications,llc",
+      "patterns": [
+        "gastontelecommunications,llc",
+        "gastontelecommunicationsllc"
+      ],
+      "responses": [
+        "gastontelecommunications,llc"
+      ]
+    },
+    {
+      "tag": "gsm america inc",
+      "patterns": [
+        "gsm america inc",
+        "gsmamericainc"
+      ],
+      "responses": [
+        "gsm america inc"
+      ]
+    },
+    {
+      "tag": "get wireless now",
+      "patterns": [
+        "get wireless now",
+        "getwirelessnow"
+      ],
+      "responses": [
+        "get wireless now"
+      ]
+    },
+    {
+      "tag": "great lakes mobile",
+      "patterns": [
+        "great lakes mobile",
+        "greatlakesmobile"
+      ],
+      "responses": [
+        "great lakes mobile"
+      ]
+    },
+    {
+      "tag": "haddad electronics",
+      "patterns": [
+        "haddad electronics",
+        "haddadelectronics"
+      ],
+      "responses": [
+        "haddad electronics"
+      ]
+    },
+    {
+      "tag": "hattar wireless",
+      "patterns": [
+        "hattar wireless",
+        "hattarwireless"
+      ],
+      "responses": [
+        "hattar wireless"
+      ]
+    },
+    {
+      "tag": "high mesa communications",
+      "patterns": [
+        "high mesa communications",
+        "highmesacommunications"
+      ],
+      "responses": [
+        "high mesa communications"
+      ]
+    },
+    {
+      "tag": "iag wireless, llc",
+      "patterns": [
+        "iag wireless, llc",
+        "iagwireless,llc",
+        "iagwirelessllc",
+        "iag wireless llc"
+      ],
+      "responses": [
+        "iag wireless, llc"
+      ]
+    },
+    {
+      "tag": "island cellular group inc.",
+      "patterns": [
+        "island cellular group inc.",
+        "islandcellulargroupinc."
+      ],
+      "responses": [
+        "island cellular group inc."
+      ]
+    },
+    {
+      "tag": "kiger ventures llc",
+      "patterns": [
+        "kiger ventures llc",
+        "kigerventuresllc"
+      ],
+      "responses": [
+        "kiger ventures llc"
+      ]
+    },
+    {
+      "tag": "kyorae telecom",
+      "patterns": [
+        "kyorae telecom",
+        "kyoraetelecom"
+      ],
+      "responses": [
+        "kyorae telecom"
+      ]
+    },
+    {
+      "tag": "lets go wireless",
+      "patterns": [
+        "lets go wireless",
+        "letsgowireless"
+      ],
+      "responses": [
+        "lets go wireless"
+      ]
+    },
+    {
+      "tag": "lions wireless llc",
+      "patterns": [
+        "lions wireless llc",
+        "lionswirelessllc"
+      ],
+      "responses": [
+        "lions wireless llc"
+      ]
+    },
+    {
+      "tag": "mad mountain wireless",
+      "patterns": [
+        "mad mountain wireless",
+        "madmountainwireless"
+      ],
+      "responses": [
+        "mad mountain wireless"
+      ]
+    },
+    {
+      "tag": "mam communications inc",
+      "patterns": [
+        "mam communications inc",
+        "mamcommunicationsinc"
+      ],
+      "responses": [
+        "mam communications inc"
+      ]
+    },
+    {
+      "tag": "master wireless holdings llc",
+      "patterns": [
+        "master wireless holdings llc",
+        "masterwirelessholdingsllc"
+      ],
+      "responses": [
+        "master wireless holdings llc"
+      ]
+    },
+    {
+      "tag": "maximis enterprise inc",
+      "patterns": [
+        "maximis enterprise inc",
+        "maximisenterpriseinc"
+      ],
+      "responses": [
+        "maximis enterprise inc"
+      ]
+    },
+    {
+      "tag": "mid tex",
+      "patterns": [
+        "mid tex",
+        "midtex"
+      ],
+      "responses": [
+        "mid tex"
+      ]
+    },
+    {
+      "tag": "millenium wireless technology inc",
+      "patterns": [
+        "millenium wireless technology inc",
+        "milleniumwirelesstechnologyinc"
+      ],
+      "responses": [
+        "millenium wireless technology inc"
+      ]
+    },
+    {
+      "tag": "mms group, inc.",
+      "patterns": [
+        "mms group, inc.",
+        "mmsgroup,inc.",
+        "mmsgroupinc.",
+        "mms group inc."
+      ],
+      "responses": [
+        "mms group, inc."
+      ]
+    },
+    {
+      "tag": "mobile edge",
+      "patterns": [
+        "mobile edge",
+        "mobileedge"
+      ],
+      "responses": [
+        "mobile edge"
+      ]
+    },
+    {
+      "tag": "mobiletel",
+      "patterns": [
+        "mobiletel"
+      ],
+      "responses": [
+        "mobiletel"
+      ]
+    },
+    {
+      "tag": "mobily,llc",
+      "patterns": [
+        "mobily,llc",
+        "mobilyllc"
+      ],
+      "responses": [
+        "mobily,llc"
+      ]
+    },
+    {
+      "tag": "mountain comm & electronics",
+      "patterns": [
+        "mountain comm & electronics",
+        "mountaincomm&electronics"
+      ],
+      "responses": [
+        "mountain comm & electronics"
+      ]
+    },
+    {
+      "tag": "mundus company llc",
+      "patterns": [
+        "mundus company llc",
+        "munduscompanyllc"
+      ],
+      "responses": [
+        "mundus company llc"
+      ]
+    },
+    {
+      "tag": "mywireless",
+      "patterns": [
+        "mywireless"
+      ],
+      "responses": [
+        "mywireless"
+      ]
+    },
+    {
+      "tag": "midwest wireless technology",
+      "patterns": [
+        "midwest wireless technology",
+        "midwestwirelesstechnology"
+      ],
+      "responses": [
+        "midwest wireless technology"
+      ]
+    },
+    {
+      "tag": "noble wireless group, llc",
+      "patterns": [
+        "noble wireless group, llc",
+        "noble wireless group llc",
+        "noblewirelessgroup,llc",
+        "noblewirelessgroupllc"
+      ],
+      "responses": [
+        "noble wireless group, llc"
+      ]
+    },
+    {
+      "tag": "one tel group",
+      "patterns": [
+        "one tel group",
+        "onetelgroup"
+      ],
+      "responses": [
+        "one tel group"
+      ]
+    },
+    {
+      "tag": "optimum wireless, llc",
+      "patterns": [
+        "optimum wireless, llc",
+        "optimum wireless llc",
+        "optimumwireless,llc",
+        "optimumwirelessllc"
+      ],
+      "responses": [
+        "optimum wireless, llc"
+      ]
+    },
+    {
+      "tag": "oscar ortiz",
+      "patterns": [
+        "oscar ortiz",
+        "oscarortiz"
+      ],
+      "responses": [
+        "oscar ortiz"
+      ]
+    },
+    {
+      "tag": "panorama communications, llc",
+      "patterns": [
+        "panorama communications, llc",
+        "panorama communications llc",
+        "panoramacommunications,llc",
+        "panoramacommunicationsllc"
+      ],
+      "responses": [
+        "panorama communications, llc"
+      ]
+    },
+    {
+      "tag": "pinnacle mobile llc",
+      "patterns": [
+        "pinnacle mobile llc",
+        "pinnaclemobilellc"
+      ],
+      "responses": [
+        "pinnacle mobile llc"
+      ]
+    },
+    {
+      "tag": "portables",
+      "patterns": [
+        "portables"
+      ],
+      "responses": [
+        "portables"
+      ]
+    },
+    {
+      "tag": "premier technologies wny, llc",
+      "patterns": [
+        "premier technologies wny, llc",
+        "premiertechnologieswny,llc",
+        "premiertechnologieswnyllc",
+        "premier technologies wny llc"
+      ],
+      "responses": [
+        "premier technologies wny, llc"
+      ]
+    },
+    {
+      "tag": "prime communications - 58",
+      "patterns": [
+        "prime communications - 58",
+        "prime communications  58",
+        "primecommunications58",
+        "prime"
+      ],
+      "responses": [
+        "prime communications - 58"
+      ]
+    },
+    {
+      "tag": "protel",
+      "patterns": [
+        "protel"
+      ],
+      "responses": [
+        "protel"
+      ]
+    },
+    {
+      "tag": "ringuswirelessllc",
+      "patterns": [
+        "ringuswirelessllc"
+      ],
+      "responses": [
+        "ringuswirelessllc"
+      ]
+    },
+    {
+      "tag": "rocky mountain wireless",
+      "patterns": [
+        "rocky mountain wireless",
+        "rockymountainwireless"
+      ],
+      "responses": [
+        "rocky mountain wireless"
+      ]
+    },
+    {
+      "tag": "s&k mobil solutions llc",
+      "patterns": [
+        "s&k mobil solutions llc",
+        "s&kmobilsolutionsllc"
+      ],
+      "responses": [
+        "s&k mobil solutions llc"
+      ]
+    },
+    {
+      "tag": "simple mobile associates, llc",
+      "patterns": [
+        "simple mobile associates, llc",
+        "simplemobileassociates,llc",
+        "simplemobileassociatesllc",
+        "simple mobile associates llc"
+      ],
+      "responses": [
+        "simple mobile associates, llc"
+      ]
+    },
+    {
+      "tag": "southeast communications group llc",
+      "patterns": [
+        "southeast communications group llc",
+        "southeastcommunicationsgroupllc"
+      ],
+      "responses": [
+        "southeast communications group llc"
+      ]
+    },
+    {
+      "tag": "spearheadmobilityinc",
+      "patterns": [
+        "spearheadmobilityinc"
+      ],
+      "responses": [
+        "spearheadmobilityinc"
+      ]
+    },
+    {
+      "tag": "spring business solutions",
+      "patterns": [
+        "spring business solutions",
+        "springbusinesssolutions"
+      ],
+      "responses": [
+        "spring business solutions"
+      ]
+    },
+    {
+      "tag": "telecom wireless",
+      "patterns": [
+        "telecom wireless",
+        "telecomwireless"
+      ],
+      "responses": [
+        "telecom wireless"
+      ]
+    },
+    {
+      "tag": "the cellular touch",
+      "patterns": [
+        "the cellular touch",
+        "thecellulartouch"
+      ],
+      "responses": [
+        "the cellular touch"
+      ]
+    },
+    {
+      "tag": "the wireless experience group",
+      "patterns": [
+        "the wireless experience group",
+        "thewirelessexperiencegroup"
+      ],
+      "responses": [
+        "the wireless experience group"
+      ]
+    },
+    {
+      "tag": "total solutions corporation",
+      "patterns": [
+        "total solutions corporation",
+        "totalsolutionscorporation"
+      ],
+      "responses": [
+        "total solutions corporation"
+      ]
+    },
+    {
+      "tag": "ts mobility inc.",
+      "patterns": [
+        "ts mobility inc.",
+        "tsmobilityinc."
+      ],
+      "responses": [
+        "ts mobility inc."
+      ]
+    },
+    {
+      "tag": "usawireless",
+      "patterns": [
+        "usawireless"
+      ],
+      "responses": [
+        "usawireless"
+      ]
+    },
+    {
+      "tag": "usa wireless",
+      "patterns": [
+        "usa wireless",
+        "usawireless"
+      ],
+      "responses": [
+        "usa wireless"
+      ]
+    },
+    {
+      "tag": "victoria comm",
+      "patterns": [
+        "victoria comm",
+        "victoriacomm"
+      ],
+      "responses": [
+        "victoria comm"
+      ]
+    },
+    {
+      "tag": "vital wireless, llc",
+      "patterns": [
+        "vital wireless, llc",
+        "vital wireless llc",
+        "vitalwireless,llc",
+        "vitalwirelessllc"
+      ],
+      "responses": [
+        "vital wireless, llc"
+      ]
+    },
+    {
+      "tag": "vivid strategies, inc.",
+      "patterns": [
+        "vivid strategies, inc.",
+        "vividstrategies,inc.",
+        "vividstrategiesinc.",
+        "vivid strategies inc."
+      ],
+      "responses": [
+        "vivid strategies, inc."
+      ]
+    },
+    {
+      "tag": "wecan wireless inc",
+      "patterns": [
+        "wecan wireless inc",
+        "wecanwirelessinc"
+      ],
+      "responses": [
+        "wecan wireless inc"
+      ]
+    },
+    {
+      "tag": "west region mobility l.l.c.",
+      "patterns": [
+        "west region mobility l.l.c.",
+        "westregionmobilityl.l.c."
+      ],
+      "responses": [
+        "west region mobility l.l.c."
+      ]
+    },
+    {
+      "tag": "wireless management llc",
+      "patterns": [
+        "wireless management llc",
+        "wirelessmanagementllc"
+      ],
+      "responses": [
+        "wireless management llc"
+      ]
+    },
+    {
+      "tag": "wireless plus - ga",
+      "patterns": [
+        "wireless plus - ga",
+        "wirelessplusga",
+        "wireless plus  ga"
+      ],
+      "responses": [
+        "wireless plus - ga"
+      ]
+    },
+    {
+      "tag": "wireless solutions, llc",
+      "patterns": [
+        "wireless solutions, llc",
+        "wirelesssolutions,llc",
+        "wirelesssolutionsllc",
+        "wireless solutions llc"
+      ],
+      "responses": [
+        "wireless solutions, llc"
+      ]
+    },
+    {
+      "tag": "wireless touch inc",
+      "patterns": [
+        "wireless touch inc",
+        "wirelesstouchinc"
+      ],
+      "responses": [
+        "wireless touch inc"
+      ]
+    },
+    {
+      "tag": "worldwide communications, inc. dba uniq mobile",
+      "patterns": [
+        "worldwide communications, inc. dba uniq mobile",
+        "worldwidecommunications,inc.dbauniqmobile",
+        "worldwidecommunicationsinc.dbauniqmobile",
+        "worldwide communications inc. dba uniq mobile"
+      ],
+      "responses": [
+        "worldwide communications, inc. dba uniq mobile"
+      ]
+    },
+    {
+      "tag": "xihuatradinginc",
+      "patterns": [
+        "xihuatradinginc"
+      ],
+      "responses": [
+        "xihuatradinginc"
+      ]
+    },
+    {
+      "tag": "zain enterprises, llc",
+      "patterns": [
+        "zain enterprises, llc",
+        "zain enterprises llc",
+        "zainenterprises,llc",
+        "zainenterprisesllc"
+      ],
+      "responses": [
+        "zain enterprises, llc"
+      ]
+    }
+  ]
+}

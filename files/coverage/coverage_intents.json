@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "tag": "Covered",
+      "patterns": [
+        "coverage", "covered","Coverage is covered","covering"
+      ],
+      "responses": [
+        "Covered"
+      ]
+    },
+    {
+      "tag": "Uncovered",
+        "patterns": [
+          "Uncoverage","uncovered","not covered", "coverage is not covered", "Not covering"
+        ],
+        "responses": [
+          "Uncovered"
+        ]
+    }
+  ]
+}

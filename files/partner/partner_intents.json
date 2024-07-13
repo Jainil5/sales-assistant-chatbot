@@ -1,0 +1,67 @@
+{
+  "intents": [
+    {
+      "tag": "AT&T",
+      "patterns": [
+        "at&t", "att", "atandt"
+      ],
+      "responses": [
+        "AT&T"
+      ]
+    },
+    {
+      "tag": "Verizon",
+        "patterns": [
+          "verizon","vzn"
+        ],
+        "responses": [
+          "Verizon"
+        ]
+    },
+    {
+      "tag": "T-mobile",
+        "patterns": [
+          "t-mobile", "tmo", "tmobile"
+        ],
+        "responses": [
+          "T-Mobile"
+        ]
+    },
+    { 
+      "tag": "Best Buy",
+      "patterns": [
+        "best buy", "bby", "bestbuy"
+      ],
+      "responses": [
+        "Best Buy"
+      ]
+    },
+    { 
+      "tag": "Bell",
+      "patterns": [
+        "bell"
+      ],
+      "responses": [
+        "Bell"
+      ]
+    },
+    { 
+      "tag": "Telus",
+      "patterns": [
+        "telus"
+      ],
+      "responses": [
+        "Telus"
+      ]
+    },
+    { 
+      "tag": "Rogers",
+      "patterns": [
+        "rogers"
+      ],
+      "responses": [
+        "Rogers"
+      ]
+    }
+  ]
+}

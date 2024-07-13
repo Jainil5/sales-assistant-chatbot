@@ -1,0 +1,136 @@
+{
+  "intents": [
+    {
+      "tag": "east",
+      "patterns": [
+        "east",
+        "east region",
+        "region east"
+      ],
+      "responses": [
+        "east"
+      ]
+    },
+    {
+      "tag": "west",
+      "patterns": [
+        "west",
+        "west region",
+        "region west"
+      ],
+      "responses": [
+        "west"
+      ]
+    },
+    {
+      "tag": "central",
+      "patterns": [
+        "central",
+        "central region",
+        "region central"
+      ],
+      "responses": [
+        "central"
+      ]
+    },
+    {
+      "tag": "northeast",
+      "patterns": [
+        "northeast",
+        "northeast region",
+        "region northeast"
+      ],
+      "responses": [
+        "northeast"
+      ]
+    },
+    {
+      "tag": "southeast",
+      "patterns": [
+        "southeast",
+        "southeast region",
+        "region southeast"
+      ],
+      "responses": [
+        "southeast"
+      ]
+    },
+    {
+      "tag": "atlantic north",
+      "patterns": [
+        "atlantic north",
+        "atlantic north region",
+        "region atlantic north"
+      ],
+      "responses": [
+        "atlantic north"
+      ]
+    },
+    {
+      "tag": "atlantic south",
+      "patterns": [
+        "atlantic south",
+        "atlantic south region",
+        "region atlantic south"
+      ],
+      "responses": [
+        "atlantic south"
+      ]
+    },
+    {
+      "tag": "coastal plains",
+      "patterns": [
+        "coastal plains",
+        "coastal plains region",
+        "region coastal plains"
+      ],
+      "responses": [
+        "coastal plains"
+      ]
+    },
+    {
+      "tag": "great lakes",
+      "patterns": [
+        "great lakes",
+        "great lakes region",
+        "region great lakes"
+      ],
+      "responses": [
+        "great lakes"
+      ]
+    },
+    {
+      "tag": "mountain",
+      "patterns": [
+        "mountain",
+        "mountain region",
+        "region mountain"
+      ],
+      "responses": [
+        "mountain"
+      ]
+    },
+    {
+      "tag": "pacific",
+      "patterns": [
+        "pacific",
+        "pacific region",
+        "region pacific"
+      ],
+      "responses": [
+        "pacific"
+      ]
+    },
+    {
+      "tag": "south",
+      "patterns": [
+        "south",
+        "south region",
+        "region south"
+      ],
+      "responses": [
+        "south"
+      ]
+    }
+  ]
+}

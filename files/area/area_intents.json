@@ -1,0 +1,183 @@
+{
+  "intents": [
+    {
+      "tag": "central canada",
+      "patterns": [
+        "central canada",
+        "centralcanada",
+        "central canada area",
+        "area central canada"
+      ],
+      "responses": [
+        "central canada"
+      ]
+    },
+    {
+      "tag": "eastern canada",
+      "patterns": [
+        "eastern canada",
+        "easterncanada",
+        "eastern canada area",
+        "area eastern canada"
+      ],
+      "responses": [
+        "eastern canada"
+      ]
+    },
+    {
+      "tag": "florida",
+      "patterns": [
+        "florida",
+        "florida area",
+        "area florida"
+      ],
+      "responses": [
+        "florida"
+      ]
+    },
+    {
+      "tag": "great lakes",
+      "patterns": [
+        "great lakes",
+        "greatlakes",
+        "great lakes area",
+        "area great lakes"
+      ],
+      "responses": [
+        "great lakes"
+      ]
+    },
+    {
+      "tag": "mid atlantic north",
+      "patterns": [
+        "mid atlantic north",
+        "midatlanticnorth",
+        "mid atlantic north area",
+        "area mid atlantic north"
+      ],
+      "responses": [
+        "mid atlantic north"
+      ]
+    },
+    {
+      "tag": "mid atlantic south",
+      "patterns": [
+        "mid atlantic south",
+        "midatlanticsouth",
+        "mid atlantic south area",
+        "area mid atlantic south"
+      ],
+      "responses": [
+        "mid atlantic south"
+      ]
+    },
+    {
+      "tag": "new york",
+      "patterns": [
+        "new york",
+        "newyork",
+        "new york area",
+        "area new york"
+      ],
+      "responses": [
+        "new york"
+      ]
+    },
+    {
+      "tag": "north central",
+      "patterns": [
+        "north central",
+        "northcentral",
+        "north central area",
+        "area north central"
+      ],
+      "responses": [
+        "north central"
+      ]
+    },
+    {
+      "tag": "ohio valley",
+      "patterns": [
+        "ohio valley",
+        "ohiovalley",
+        "ohio valley area",
+        "area ohio valley"
+      ],
+      "responses": [
+        "ohio valley"
+      ]
+    },
+    {
+      "tag": "pac northwest",
+      "patterns": [
+        "pac northwest",
+        "pacnorthwest",
+        "pac northwest area",
+        "area pac northwest"
+      ],
+      "responses": [
+        "pac northwest"
+      ]
+    },
+    {
+      "tag": "pac southwest",
+      "patterns": [
+        "pac southwest",
+        "pacsouthwest",
+        "pac southwest area",
+        "area pac southwest"
+      ],
+      "responses": [
+        "pac southwest"
+      ]
+    },
+    {
+      "tag": "rocky mtn",
+      "patterns": [
+        "rocky mtn",
+        "rockymtn",
+        "rocky mountain",
+        "rocky mtn area",
+        "area rocky mtn"
+      ],
+      "responses": [
+        "rocky mtn"
+      ]
+    },
+    {
+      "tag": "southeast",
+      "patterns": [
+        "southeast",
+        "southeast area",
+        "southeast area",
+        "area southeast"
+      ],
+      "responses": [
+        "southeast"
+      ]
+    },
+    {
+      "tag": "texas",
+      "patterns": [
+        "texas",
+        "texas area",
+        "area texas"
+      ],
+      "responses": [
+        "texas"
+      ]
+    },
+    {
+      "tag": "western canada",
+      "patterns": [
+        "western canada",
+        "westerncanada",
+        "western canada area",
+        "area western canada"
+      ],
+      "responses": [
+        "western canada"
+      ]
+    }
+  ]
+}

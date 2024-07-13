@@ -1,0 +1,144 @@
+{
+  "intents": [
+    {
+      "tag": "Google Pixel 8 Pro",
+      "patterns": [
+        "google pixel 8 pro",
+        "pixel 8 pro",
+        "pixel8pro",
+        "pixel 8pro",
+        "google pixel 8 pro",
+        "p 8pro",
+        "p8pro",
+        "p8 pro"
+      ],
+      "responses": [
+        "google pixel 8 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel 8a",
+      "patterns": [
+        "google pixel 8a",
+        "pixel 8a",
+        "pixel8a",
+        "pixel 8a",
+        "google pixel 8a",
+        "p8a",
+        "p8 a",
+        "p 8a"
+      ],
+      "responses": [
+        "google pixel 8a"
+      ]
+    },
+    
+    {
+      "tag": "Google Pixel 8",
+      "patterns": [
+        "google pixel 8",
+        "pixel 8",
+        "p 8",
+        "p8"
+      ],
+      "responses": [
+        "google pixel 8"
+      ]
+    },
+    
+    {
+      "tag": "Google Pixel 7a",
+      "patterns": [
+        "google pixel 7a",
+        "pixel 7a",
+        "pixel7a",
+        "pixel 7a",
+        "google pixel 7a",
+        "p 7a",
+        "p 7a",
+        "p 7 a",
+        "p7a"
+      ],
+      "responses": [
+        "google pixel 7a"
+      ]
+    },
+    {
+      "tag": "Google Pixel 7 Pro",
+      "patterns": [
+        "google pixel 7 pro",
+        "pixel 7 pro",
+        "pixel7pro",
+        "pixel 7 pro",
+        "google pixel 7 pro",
+        "p 7 pro",
+        "p 7 pro",
+        "p7pro",
+        "p 7pro",
+        "p7 pro",
+        "p 7pro"
+      ],
+      "responses": [
+        "google pixel 7 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel 7",
+      "patterns": [
+        "google pixel 7",
+        "pixel 7",
+        "p7"
+      ],
+      "responses": [
+        "google pixel 7"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6 Pro",
+      "patterns": [
+        "google pixel 6 pro",
+        "pixel 6 pro",
+        "pixel 6pro",
+        "google pixel 6 pro",
+        "p 6pro",
+        "p6 pro",
+        "p6pro"
+      ],
+      "responses": [
+        "google pixel 6 pro"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6a",
+      "patterns": [
+        "google pixel 6a",
+        "pixel 6a",
+        "pixel 6a",
+        "google pixel 6a",
+        "p 6a",
+        "p6 a",
+        "p6a"
+      ],
+      "responses": [
+        "google pixel 6a"
+      ]
+    },
+    {
+      "tag": "Google Pixel 6",
+      "patterns": [
+        "google pixel 6",
+        "pixel 6",
+        "pixel6",
+        "pixel 6",
+        "google pixel 6",
+        "p 6",
+        "p6"
+      ],
+      "responses": [
+        "google pixel 6"
+      ]
+    }
+    
+    
+  ]
+}
